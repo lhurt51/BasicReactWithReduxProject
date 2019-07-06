@@ -3,4 +3,5 @@
 - The app is a simple todo app similar to trello boards in a way
 
 ```Currently a very simple app. Not meant for production!```
+
 ``## I will add more for build instructions soon ##``
