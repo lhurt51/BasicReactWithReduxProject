@@ -1,4 +1,5 @@
-# BasicReactWithReduxProject (For Code Tahoe 12-Week Summer Immersive)
+# BasicReactWithReduxProject 
+## Code Tahoe 12-Week Summer Immersive Project
 - Creating a simple app that uses the latest version of react with redux!
 - The app is a simple todo app similar to trello boards in a way
 
